@@ -143,7 +143,7 @@ const filteredProducts = computed(() => {
     <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
 
       <h1 class="text-xl font-semibold tracking-wide">
-        🎸 Guitar Shop
+        🎸 Feem Guitar Shop
       </h1>
 
       <div class="flex gap-6 text-gray-600 items-center">
